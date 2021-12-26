@@ -217,6 +217,8 @@ git push
 
 ## #docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
 
+## Project deployed on heroku server
+https://waferfaultdetec-ml.herokuapp.com/
     
     
     
