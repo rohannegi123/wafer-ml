@@ -202,7 +202,7 @@ DOCKER_HUB_PASSWORD_USER
 HEROKU_API_KEY
 HEROKU_APP_NAME
 HEROKU_EMAIL_ADDRESS
-DOCKER_IMAGE_NAME=wafercircle3270303
+DOCKER_IMAGE_NAME 
 ```
 
 
@@ -216,6 +216,9 @@ git push
 
 
 ## #docker login -u $DOCKERHUB_USER -p $DOCKER_HUB_PASSWORD_USER docker.io
+
+## Project deployed on heroku server
+https://waferfaultdetec-ml.herokuapp.com/
 
     
     
