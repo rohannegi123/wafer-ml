@@ -219,7 +219,10 @@ git push
 
 ## Project deployed on heroku server
 https://waferfaultdetec-ml.herokuapp.com/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0ae856854b9a7824bd4037e21998b6e155a9fcfa
     
     
     
